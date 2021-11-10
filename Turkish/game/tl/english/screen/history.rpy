@@ -4,4 +4,4 @@ translate english strings:
 
     # old "歷史訊息"
     old "歷史訊息"
-    new "Log"
+    new "Kayıtlar"

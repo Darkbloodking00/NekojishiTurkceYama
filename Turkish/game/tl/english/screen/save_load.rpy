@@ -8,20 +8,20 @@ translate english strings:
 
     # old "自動存檔"
     old "自動存檔"
-    new "Auto Save"
+    new "Otomatik Kayıt"
 
     # old "空白"
     old "空白"
-    new "Empty"
+    new "Boş"
 
     # old "儲存"
     old "儲存"
-    new "Save"
+    new "Kaydet"
 
     # old "讀取"
     old "讀取"
-    new "Load"
+    new "Yükle"
 
     # old "刪除"
     old "刪除"
-    new "Delete"
+    new "Sil"

@@ -4,27 +4,27 @@ translate english strings:
 
     # old "環境設定"
     old "環境設定"
-    new "Settings"
+    new "Ayarlar"
 
     # old "音樂"
     old "音樂"
-    new "Music"
+    new "Müzik"
 
     # old "音效"
     old "音效"
-    new "Effects"
+    new "Efekler"
 
     # old "語音"
     old "語音"
-    new "Voice"
+    new "Konuşma Sesi"
 
     # old "文字速度"
     old "文字速度"
-    new "Speed"
+    new "Hızlı"
 
     # old "慢"
     old "慢"
-    new "Slow"
+    new "Yavaş"
 
     # old "一般"
     old "一般"
@@ -32,32 +32,32 @@ translate english strings:
 
     # old "快"
     old "快"
-    new "Fast"
+    new "Hızlı"
 
     # old "未讀快進"
     old "未讀快進"
-    new "Skip Unread"
+    new "Okunmayanları Atla"
 
     # old "開"
     old "開"
-    new "On"
+    new "Açık"
 
     # old "關"
     old "關"
-    new "Off"
+    new "Kapalı"
 
     # old "視窗模式"
     old "視窗模式"
-    new "Display"
+    new "Ekran"
 
     # old "視窗"
     old "視窗"
-    new "Windowed"
+    new "Pencere Modu"
 
     # old "全螢幕"
     old "全螢幕"
-    new "Full screen"
+    new "Tam ekran"
 
     # old "語系選擇"
     old "語系選擇"
-    new "Language"
+    new "Dil"

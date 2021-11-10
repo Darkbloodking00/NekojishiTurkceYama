@@ -4,11 +4,11 @@ translate english strings:
 
     # old "圖集 / Gallery"
     old "圖集 / Gallery"
-    new "Gallery"
+    new "Galeri"
 
     # old "觀看劇情"
     old "觀看劇情"
-    new "Replay"
+    new "Tekrarlar"
 
     # old "結局回顧 - 虎爺"
     old "結局回顧 - 虎爺"

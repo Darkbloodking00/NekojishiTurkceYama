@@ -1,99 +1,96 @@
-# TODO: Translation updated at 2018-04-16 10:21
-
 translate english strings:
 
     # old "讀取檔案"
     old "讀取檔案"
-    new "Load"
+    new "Yükle"
 
     # old "劇情回顧"
     old "劇情回顧"
-    new "Gallery"
+    new "Galeri"
 
     # old "遊戲設定"
     old "遊戲設定"
-    new "Settings"
+    new "Ayarlar"
 
     # old "註釋集"
     old "註釋集"
-    new "Glossary"
+    new "Sözlük"
 
     # old "離開遊戲"
     old "離開遊戲"
-    new "Exit Game"
+    new "Oyundan Çık"
 
     # old "特典故事"
     old "特典故事"
-    new "Epilogue"
+    new "Kapanış"
 
     # old "關於"
     old "關於"
-    new "About"
+    new "Hakkında"
 
     # old "隱藏介面"
     old "隱藏介面"
-    new "Hide UI"
+    new "Arabimi Gizle"
 
     # old "操作說明"
     old "操作說明"
-    new "Instructions"
+    new "Talimatlar"
 
     # old "滑鼠左鍵：控制選項/對話前進"
     old "滑鼠左鍵：控制選項/對話前進"
-    new "Left Mouse: Select/Advance dialogue"
+    new "Sol Fare: Tıkla/Gelişmiş diyaloglar"
 
     # old "滑鼠滾輪：開啟關閉歷史訊息"
     old "滑鼠滾輪：開啟關閉歷史訊息"
-    new "Mouse Scroll: Open/Close log"
+    new "Fare Kaydırma: Kayıtları Aç/Kapat"
 
     # old "空白鍵：對話前進"
     old "空白鍵：對話前進"
-    new "Space: Advance dialogue"
+    new "Boşluk: Gelişmiş diyaloglar"
 
     # old "Ctrl：劇情快轉(第一次觀看時無效)"
     old "Ctrl：劇情快轉(第一次觀看時無效)"
-    new "Ctrl: Fast forward (Except unread dialogue)"
+    new "Ctrl: Hızlı atlama (Henüz okunmamış diyaloglar hariç)"
 
     # old "是"
     old "是"
-    new "Yes"
+    new "Evet"
 
     # old "否"
     old "否"
-    new "No"
+    new "Hayır"
 
     # old "自動播放"
     old "自動播放"
-    new "Autoplay"
+    new "Otomatik oynat"
 
     # old "快速跳過"
     old "快速跳過"
-    new "Skip"
+    new "Atla"
 
     # old "取得註釋"
     old "取得註釋"
-    new "New Info"
+    new "Yeni Bilgi"
 
     # old "控制選單"
     old "控制選單"
-    new "Menu"
+    new "Menü"
 
     # old "記錄"
     old "記錄"
-    new "Save/Load"
+    new "Kaydet/Yükle"
 
     # old "註釋"
     old "註釋"
-    new "Glossary"
+    new "Sözlük"
 
     # old "設定"
     old "設定"
-    new "Settings"
+    new "Ayarlar"
 
     # old "回主選單"
     old "回主選單"
-    new "Home"
-# TODO: Translation updated at 2018-04-23 21:59
+    new "Ana sayfa"
 
 translate english strings:
 
