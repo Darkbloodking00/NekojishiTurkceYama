@@ -30,7 +30,7 @@ translate english strings:
 
     # old "隱藏介面"
     old "隱藏介面"
-    new "Arabimi Gizle"
+    new "Arabirimi Gizle"
 
     # old "操作說明"
     old "操作說明"
@@ -50,7 +50,7 @@ translate english strings:
 
     # old "Ctrl：劇情快轉(第一次觀看時無效)"
     old "Ctrl：劇情快轉(第一次觀看時無效)"
-    new "Ctrl: Hızlı atlama (Henüz okunmamış diyaloglar hariç)"
+    new "Ctrl: Hızlı atlama (Okunmamış diy. hariç)"
 
     # old "是"
     old "是"

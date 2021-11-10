@@ -20,7 +20,7 @@ translate english strings:
 
     # old "文字速度"
     old "文字速度"
-    new "Hızlı"
+    new "Hız"
 
     # old "慢"
     old "慢"
@@ -40,11 +40,11 @@ translate english strings:
 
     # old "開"
     old "開"
-    new "Açık"
+    new "Aç"
 
     # old "關"
     old "關"
-    new "Kapalı"
+    new "Kapa"
 
     # old "視窗模式"
     old "視窗模式"
@@ -52,7 +52,7 @@ translate english strings:
 
     # old "視窗"
     old "視窗"
-    new "Pencere Modu"
+    new "Pencere"
 
     # old "全螢幕"
     old "全螢幕"
