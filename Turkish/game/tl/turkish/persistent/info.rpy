@@ -1,10 +1,8 @@
-# TODO: Translation updated at 2018-04-16 10:21
-
 translate turkish strings:
 
     # old " 虎爺 "
     old " 虎爺 "
-    new "Guardian Amogus"
+    new "Koruyucu Kaplan"
 
     # old "乩童"
     old "乩童"
@@ -12,19 +10,19 @@ translate turkish strings:
 
     # old "城隍"
     old "城隍"
-    new "City god"
+    new "Şehir tanrısı"
 
     # old "聖母娘娘"
     old "聖母娘娘"
-    new "Holy Mother"
+    new "Ana Ata"
 
     # old "起乩"
     old "起乩"
-    new "Possessing Rit..."
+    new "Ruh ritüeli"
 
     # old "五弊三缺"
     old "五弊三缺"
-    new "Oracle's Misfo..."
+    new "Oracle'ın talihs..."
 
     # old "魯凱族"
     old "魯凱族"
@@ -44,7 +42,7 @@ translate turkish strings:
 
     # old " 石虎 "
     old " 石虎 "
-    new "Leopard Cat"
+    new "Panter"
 
     # old "福德"
     old "福德"
@@ -60,11 +58,11 @@ translate turkish strings:
 
     # old "靈道"
     old "靈道"
-    new "Spirit Path"
+    new "Ruh Yolu"
 
     # old "氣"
     old "氣"
-    new "Chi"
+    new "Çi"
 
     # old "精怪"
     old "精怪"
@@ -72,7 +70,7 @@ translate turkish strings:
 
     # old "魯凱祭司"
     old "魯凱祭司"
-    new "Spirit Mediums"
+    new "Ruh Medyumları"
 
     # old "好茶"
     old "好茶"
@@ -88,11 +86,11 @@ translate turkish strings:
 
     # old "山豬香腸"
     old "山豬香腸"
-    new "Boar Sausage"
+    new "Y.Domuz Sosisi"
 
     # old "烤乳豬"
     old "烤乳豬"
-    new "Suckling Pig"
+    new "Süt Domuzu"
 
     # old "老街美食"
     old "老街美食"
@@ -100,7 +98,7 @@ translate turkish strings:
 
     # old "正神"
     old "正神"
-    new "Orthodox God"
+    new "Geleneksel Tanrı"
 
     # old "千里眼順風耳"
     old "千里眼順風耳"
@@ -108,11 +106,11 @@ translate turkish strings:
 
     # old "客家桐花季"
     old "客家桐花季"
-    new "Tung Blossom..."
+    new "Tung Çiçeklen..."
 
     # old "樹王公"
     old "樹王公"
-    new "Grand Tree Lord"
+    new "Yaşlı Ağaç Tanrısı"
 
     # old "觀音"
     old "觀音"
@@ -120,56 +118,56 @@ translate turkish strings:
 
     # old "陰陽眼"
     old "陰陽眼"
-    new "Yin-Yang Eye"
+    new "Yin-Yang Gözü"
 
     # old "主神"
     old "主神"
-    new "The Chief God"
+    new "Birincil Tanrı"
 
     # old "文昌帝君"
     old "文昌帝君"
-    new "Emperor Wen..."
+    new "İmparator Wen..."
 
     # old "玉皇大帝"
     old "玉皇大帝"
-    new "The Jade Emp..."
+    new "The Jade İmp..."
 
     # old "巴冷公主"
     old "巴冷公主"
-    new "Princess Baleng"
+    new "Prenses Baleng"
 
     # old "地靈"
     old "地靈"
-    new "Earth Spirit"
+    new "Toprak Ruhu"
 
     # old "城隍十二司"
     old "城隍十二司"
-    new "City God's Twe..."
+    new "Ş. Tanrısının On i..."
 
     # old "霞海城隍"
     old "霞海城隍"
-    new "Xia-Hai City God"
+    new "Xia-Hai Ş. Tanrısı"
 
     # old "山神土地公"
     old "山神土地公"
-    new "Mountain God..."
+    new "Toprağın Dağ Tan..."
 
     # old "桃園復興鄉"
     old "桃園復興鄉"
-    new "Fuxing Towns..."
+    new "Fuxing Kasabaları"
 
     # old "紅藜"
     old "紅藜"
-    new "Red Quinoa"
+    new "Kırmızı Kinoa"
 
     # old "小米酒"
     old "小米酒"
-    new "Millet Wine"
+    new "Darı Şarabı"
 
     # old "擲茭"
     old "擲茭"
-    new "Poe Divination"
+    new "Poe Falı"
 
     # old "拈香"
     old "拈香"
-    new "Memorial Me..."
+    new "Anma Buluşması"

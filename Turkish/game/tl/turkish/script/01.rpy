@@ -56,7 +56,7 @@ translate turkish start_cbb76b19:
 translate turkish start_2eb5e9db:
 
     # b "沒辦法和大家一起慶祝真的好可惜，這次演出非常成功，雖然我只是幫忙打雜，不過看大家興奮的樣子，我自己也很開心。"
-    b "Söylenmesi ve yapılması gereken her şey tamamlandıktan sonra geri kalan arkadaşlarımla takılamayacağım. Onları hayal kırıklığına uğraşttığımı hissediyorum, ama... "
+    b "Söylenmesi ve yapılması gereken her şey tamamlandıktan sonra geri kalan arkadaşlarımla takılamayacağım. Onları hayal kırıklığına uğrattığımı hissediyorum, ama... "
     b "Herkesin yüzündeki heyecanı görmek kalbimi ısıtıyordu. \nSadece sahne arkası ekipte yer almış olmak bile benim için özeldi. "
 
 # game/script/01.rpy:685
@@ -129,7 +129,7 @@ translate turkish start_e46d3cda:
     # voice voice_file.tig(1,2)
     # tig frown "「什麼什麼東西啊，太沒禮貌了。我是你家的{font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}虎爺{/font}啊，看不出來嗎？」"
     voice voice_file.tig(1,2)
-    tig frown "\"Ne olduğumu sorman \"ne büyük kabalık\" Ben. \nBen neticede, ailenin {font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}koruyucu kaplanı{/font} görevindeyim.\" "
+    tig frown "\"Ne olduğumu sorman \"ne büyük kabalık\" Ben. \nNeticede, ailenin {font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}koruyucu kaplanı{/font} görevindeyim.\" "
     tig frown "\"Hmm... beni tanıyor gibi görünmüyorsun, değil mi?\" "
 
 # game/script/01.rpy:723
@@ -142,22 +142,22 @@ translate turkish start_b2de64c5:
 translate turkish start_37a13961:
 
     # b "確實我家是有虎爺，甚至可以說有很多虎爺。畢竟我們家是{font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}乩童{/font}世家嘛。但我可從來沒見過真的虎爺啊！"
-    b "Hmm... Well, we do have a guardian tiger in my family. \nActually, I should say {i}guardian tigers{/i}. "
-    b "After all, I was born into a family of {font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}Jitong{/font} mediums serving Goddess Mazu. \nBasically, my family runs their own temple. "
-    b "Despite that, I never expected to see a real guardian tiger, that's for sure! "
+    b "Hmm... Şey, aslında ailemizde bir koruyucu kaplan var. \nYa da aslında {i}koruyucu kaplanlar{/i} var mı demeliydim."
+    b "Nihayetinde, Tanrıça Mazu'ya hizmet eden {font=tl/turkish/NotoSansTRCJKTC-Bold.ttf}Jitong{/font} medyumları soyundan geliyorum. \nKısacası, ailem kendi tapınağını işletiyor. "
+    b "Buna karşın, kesinlikle gerçek bir koruyucu kaplan görebileceğimi ummuyordum! "
 
 # game/script/01.rpy:726
 translate turkish start_5bd40f3a:
 
     # b "虎爺神像我是見過很多，但是這種會動會說話，還是個肌肉大叔的虎爺……這怎麼可能啊？虎爺不是神嗎？就算真的存在也不該這樣直接出現在眼前的吧！"
-    b "Like, I've seen a lot of tiger statues... but a living, speaking... and well— {i}muscular{/i} \ guardian tiger? "
-    b "How is this even possible?! Aren't guardian tigers considered gods? \nEven if they exist, normal people can't just see them... right? "
+    b "Aslında birçok kaplan heykeli görmüştüm... ama kanlı canlı, konuşan... ve— {i}kaslı{/i} \ bir koruyucu kaplan mı? "
+    b "Bu nasıl mümkün olabilir ki?! Koruyucu kaplanlar tanrı sayılmıyor mu? \nGerçek olsalar dahi, sıradan insanlar onları görememeli... değil mi? "
 
 # game/script/01.rpy:728
 translate turkish start_c8b200ac:
 
     # avt "「不，就算你這麼說……」"
-    avt "\"I'm sorry, I don't recognise you... \" "
+    avt "\"Üzgünüm, sizi tanıyamadım... \" "
 
 # game/script/01.rpy:730
 translate turkish start_b548db8d:
@@ -165,34 +165,34 @@ translate turkish start_b548db8d:
     # voice voice_file.tig(1,3)
     # tig normal "「你以前明明看不見我啊。怎麼今天突然看得到了？」"
     voice voice_file.tig(1,3)
-    tig normal "\"True, you couldn't see me before. How is it that you are able to distinguish me so suddenly? Such feats were quite beyond your level of spirit power...\" "
+    tig normal "\"Doğru, beni daha önce göremiyordun. Nasıl beni aniden fark eder oldun? Bu tür yetenekler senin ruhani gücünün biraz ötesindeydi...\" "
 
 # game/script/01.rpy:732
 translate turkish start_943d416f:
 
     # avt "「就算你問我……」"
-    avt "\"I'm just as confused as you are...\" "
+    avt "\"Benim de senin kadar kafam karışık...\" "
 
 # game/script/01.rpy:734
 translate turkish start_50022975:
 
     # b "我也想知道啊。而且說什麼突然看見……{w=0.5}難道這個虎爺以前就在了嗎？"
-    b "I have to figure this out... "
-    b "Well... he said that I {i}\"couldn't see him before\"{/i}... "
-    b "Doesn't that mean he's been here this whole time?! "
+    b "Bu yaşadıklarımı anlamlandırmam gerek... "
+    b "Şey... o dedi ki ben {i}\"onu daha önce göremiyordum\"{/i}... "
+    b "Bu onun bunca zamandır burada olduğu anlamına gelmiyor mu?! "
 
 # game/script/01.rpy:735
 translate turkish start_c5bd6627:
 
     # b "這麼說起來，我確實有帶一個小虎爺雕像來台北，難不成就是他？"
-    b "Now that I think about it, I did bring a small tiger statue with me from home... \nCould that be why he's here? "
+    b "Şimdi düşününce, yanımda ufak bir kaplan heykeli getirmiştim... \nOnun burada olmasının nedeni bu olabilir mi? "
 
 # game/script/01.rpy:736
 translate turkish start_7a03bfc1:
 
     # b "可是，就算我們是乩童世家，我可從來沒見過虎爺還是其他什麼神……就算確實是虎爺，為什麼現在可以看見了？這太突然了吧！"
-    b "Even if I was raised in family of Jitong mediums, it's not like I've seen any spirits \nbefore. "
-    b "So— If this is a {i}for real{/i} \ guardian tiger, why exactly can I see him all of a sudden?! "
+    b "Jitong medyumu bir aileden gelsem dahi ruhları görebildiğim felan \nyoktu. "
+    b "Pekala— Eğer bu {i}gerçek{/i} \ bir koruyucu kaplan ise , neden ortada hiçbir şey yokken onu birden görmeye başladım?! "
 
 # game/script/01.rpy:738
 translate turkish start_22c914b4:
