@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2018-04-16 10:21
-
 translate turkish strings:
 
     # old "圖集 / Gallery"

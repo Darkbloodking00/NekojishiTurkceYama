@@ -1,18 +1,16 @@
-# TODO: Translation updated at 2017-11-28 22:20
-
-translate english strings:
+translate turkish strings:
 
     # old "虎爺"
     old "虎爺"
-    new "Guardian Tiger"
+    new "Koruyucu Kaplan"
 
     # old "雲豹"
     old "雲豹"
-    new "Clouded Leopard"
+    new "Dumanlı Pars"
     
     # old "石虎"
     old "石虎"
-    new "Leopard Cat"
+    new "Panter"
 
     # old "阿遼"
     old "阿遼"
@@ -28,7 +26,7 @@ translate english strings:
 
     # old "蜥蜴人"
     old "蜥蜴人"
-    new "Lizard-Man"
+    new "Kertenkele-Adam"
 
     # old "修諾司"
     old "修諾司"
@@ -44,7 +42,7 @@ translate english strings:
 
     # old "老師"
     old "老師"
-    new "Lecturer"
+    new "Öğretim Üyesi"
 
     # old "家豪"
     old "家豪"
@@ -52,12 +50,12 @@ translate english strings:
 
     # old "社長"
     old "社長"
-    new "Club Leader"
+    new "Klüb Kideri"
 
     # old "社員"
     old "社員"
-    new "Clubmate"
+    new "Klüb Arkadaşı"
 
     # old "手機"
     old "手機"
-    new "Phone"
+    new "Telefon"

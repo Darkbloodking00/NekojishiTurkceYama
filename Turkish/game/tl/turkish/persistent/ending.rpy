@@ -1,27 +1,25 @@
-# TODO: Translation updated at 2018-04-16 10:21
-
 translate turkish strings:
 
     # old "知難而退"
     old "知難而退"
-    new "It's Hard to Retreat"
+    new "Geri Çekilmek zor"
 
     # old "城隍退敵"
     old "城隍退敵"
-    new "In the Name of the City God"
+    new "Şehir Tanrısının Aşkına"
 
     # old "回歸平凡"
     old "回歸平凡"
-    new "A Return to the Ordinary"
+    new "Sıradanlığa bir Dönüş"
 
     # old "不會痛太久"
     old "不會痛太久"
-    new "It Won't Hurt for Too Long"
+    new "Çok Acımayacak"
 
     # old "小小霧台行"
     old "小小霧台行"
-    new "A Day Trip to Wutai"
+    new "Wutai'ye bir Günlük Yolculuk"
 
     # old "選擇不再見面"
     old "選擇不再見面"
-    new "To Never Meet Again"
+    new "Bir Daha Görüşmemek Üzere"

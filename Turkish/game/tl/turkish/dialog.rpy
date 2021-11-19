@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2017-04-22 00:14
-
-translate english strings:
+translate turkish strings:
 
     # old "是否確認？"
     old "Are you sure?"
@@ -39,7 +37,7 @@ translate english strings:
     new "Henüz görülmemiş diyaloglara veya sonraki seçime atlamak istediğinden emin misin?"
 
 # Please don't translate following content
-translate english strings:
+translate turkish strings:
 
     # old ""
     old "Skip Mode"
