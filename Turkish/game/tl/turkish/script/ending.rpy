@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2018-11-28 20:37
-
 # game/script/ending.rpy:83
 translate english ending_tig_bad1_c4bd3cbf:
 
