@@ -7,8 +7,10 @@ Yama yapım aşamasındadır.
 
 ### Discord Sunucusu
 [Dark Çeviri Kanadı](https://discord.gg/xrVPGvp6Hc)
-
+### Steam Sayfası
 [Steam Sayfası](https://steamcommunity.com/sharedfiles/filedetails/?id=2649225169)
+### E-Posta
+darkiletisim@protonmail.com
 ## MD5
 EE2ED4C80A9D8DB9978EC0F5F00D25B8  NekojishiTurkcePreRev3.7z
 ## ESKİ
